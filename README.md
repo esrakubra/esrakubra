@@ -42,4 +42,9 @@
 </br>
 <div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
 <br>
-
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrakubra&theme=blue-green"
+     alt=""
+     />  
+</div>
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
